@@ -420,3 +420,14 @@ Include the following declaration at the end of the PDF:
 10. Be prepared to explain your Dockerfiles, networking, volumes, environment variables, image publishing and CI/CD workflow during the viva.
 
 **Final Submission:** Your examination submission is considered complete only when your Docker implementation is pushed to your GitHub fork, the required CD stages have passed, and the final Pull Request has been created successfully.
+## Docker Practical Submission
+
+### Docker Implementation
+- Dockerized frontend and backend services.
+- PostgreSQL database and Redis cache.
+- Docker Compose for multi-container orchestration.
+- CI/CD workflow using GitHub Actions.
+
+### Docker Hub Images
+- Backend: https://hub.docker.com/r/divyam1232/taskflow-backend
+- Frontend: https://hub.docker.com/r/divyam1232/taskflow-frontend
